@@ -1,2 +1,2 @@
-# matrix_add_sub_mul
-Simple matrix addition, subtraction and multiplication.
+# matrix_add_sub
+Simple matrix addition and subtraction.
